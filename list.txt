@@ -1,1 +1,2 @@
-script.google.com##div#warning
+script.google.com###warning
+script.google.com##.warning-bar.warning-banner-bar
