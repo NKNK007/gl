@@ -1,0 +1,4 @@
+script.google.com##div#warning
+script.google.com##div[role="alert"]
+||pagead2.googlesyndication.com^
+||googleads.g.doubleclick.net^
